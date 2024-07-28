@@ -52,6 +52,8 @@ jupyter notebook depth_estimation.ipynb
 ## Results
 The notebook includes visualizations of the input images and their corresponding depth maps. These visualizations help you understand the model's performance and the depth information it predicts.
 
+Check out the demo on my linkedIn: https://www.linkedin.com/posts/muhammad-saad-tariq-103272233_deeplearningai-huggingface-ai-activity-7193236101703077888-ZwJ4?utm_source=share&utm_medium=member_desktop
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
